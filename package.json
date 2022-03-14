@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
-    "oc-viewer": "^1.0.0"
+    "oc-viewer": "^1.0.1"
   }
 }
