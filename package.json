@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "browserify": "^17.0.0",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "oc-viewer": "^1.0.1"
   }
 }
